@@ -1,0 +1,17 @@
+.navigation-bar-wrapper {
+    display: flex;
+    justify-content: space-between;
+    height: 95px;
+    padding: 10px 40px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.navigation-logo {
+    height: 75px;
+}
+
+.navigation-links a {
+    margin: 0 10px;
+    text-decoration: none;
+}
